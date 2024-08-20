@@ -47,7 +47,7 @@ FeelDance System is a web application developed to streamline the management of 
 ## User Flow Screenshots
 
 1. **Admin Dashboard**: Overview of members and classes.
-   ![Admin Dashboard](path_to_screenshot1)
+   ![Admin Dashboard](Dashboard.jpg)
 
 2. **Member Management**: Admins manage member details and class assignments.
    ![Member Management](path_to_screenshot2)
